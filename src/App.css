@@ -1,0 +1,25 @@
+.App {
+  text-align: none;
+}
+
+.NumPad {
+  text-align: center;
+  display: none;
+}
+
+.NumPad button {
+  margin: .25em;
+}
+
+#Player2 {
+  float: right;
+}
+
+h1 {
+  display: inline-block;
+}
+
+.Input {
+  text-align: center;
+  display: none;
+}
